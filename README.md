@@ -47,7 +47,7 @@ from there you can test all features in Insomnia or build and connect via a Fron
 
  This project uses mysql and express to provide a connection between a to be built front end and back end e-commerce database.  The full functionality can be viewed at:
  
- https://watch.screencastify.com/v/gz1HFjS3lILHGEQN8as5
+ https://watch.screencastify.com/v/Kng4QMwZGwAEfLSl3YAh
  
  ## Contributing 
  N/A
